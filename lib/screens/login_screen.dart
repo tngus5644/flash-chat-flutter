@@ -86,7 +86,7 @@ class _LoginScreenState extends State<LoginScreen> {
                     //Implement login functionality.
                   },
                   minWidth: 200.0,
-                  height: 42.0,
+                  height: 41.0,
                   child: Text(
                     'Log In',
                   ),
